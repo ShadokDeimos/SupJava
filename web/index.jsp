@@ -11,7 +11,7 @@
         <title>$Title$</title>
     </head>
     <body>
-    Tralalla lala poeut poeut
+    Tralalla lala POUET POUET
     $END$
     </body>
 </html>
